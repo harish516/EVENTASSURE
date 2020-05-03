@@ -1,0 +1,160 @@
+<app-header [pageTitle]="pageTitle" [hasBackBtn]="hasBackBtn"></app-header>
+
+<ion-content>
+  <ion-refresher slot="fixed" (ionRefresh)="onRefresher()"></ion-refresher>
+
+  <ion-grid>
+    <ion-row class="ion-justify-content-center ion-align-items-center">
+      <ion-col size-xs="12" size-sm="10" size-md="8" size-lg="6" size-xl="4">
+        <ion-card class="content-card">
+          <ion-card-content>
+            <ng-container [ngSwitch]="currentStage">
+              <ng-container *ngSwitchCase="1" [ngTemplateOutlet]="firstCreateEvent"></ng-container>
+              <ng-container *ngSwitchCase="2" [ngTemplateOutlet]="secondCreateEvent"></ng-container>
+              <ng-container *ngSwitchCase="3" [ngTemplateOutlet]="thirdCreateEvent"></ng-container>
+            </ng-container>
+            <ion-progress-bar [ngClass]="{
+              'low-risk': risk < 0.4 ,
+              'medium-risk': risk >= 0.4 && risk < 0.7,
+              'high-risk': risk >= 0.7
+            }" [buffer]="risk" class="ion-margin-top riskBar"></ion-progress-bar>
+          </ion-card-content>
+        </ion-card>
+
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>
+
+<ng-template #firstCreateEvent>
+  <form [formGroup]="createEventForm" (ngSubmit)="submitEventForm()" novalidate>
+    <ion-row>
+      <ion-col>
+        <ion-label class="field-label" position="floating">Event Name</ion-label>
+        <ion-input placeholder="Enter your event name" type="text" formControlName="name"></ion-input>
+        <div *ngIf="(createEventForm.get('name')?.invalid && createEventForm.get('name')?.touched)">
+          <ion-label class="error-validation" *ngIf="createEventForm.get('name').errors.required">
+            This field is required!</ion-label>
+        </div>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col>
+        <ion-label class="field-label" position="floating">Event Date</ion-label>
+        <ion-datetime [min]="todayDate" max="2021" display-format="DD MMM YYYY" picker-format="DD MMM YYYY"
+          placeholder="Event Date" formControlName="date">
+        </ion-datetime>
+        <div *ngIf="(createEventForm.get('date')?.invalid && createEventForm.get('date')?.touched)">
+          <ion-label class="error-validation" *ngIf="createEventForm.get('date').errors.required">
+            This field is required!</ion-label>
+        </div>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col>
+        <ion-label class="field-label" position="floating">Event Location</ion-label>
+        <ion-input placeholder="Enter your event location" type="text" formControlName="location">
+        </ion-input>
+        <div *ngIf="(createEventForm.get('location')?.invalid && createEventForm.get('location')?.touched)">
+          <ion-label class="error-validation" *ngIf="createEventForm.get('location').errors.required">
+            This field is required!</ion-label>
+        </div>
+      </ion-col>
+    </ion-row>
+
+    <ion-row class="ion-justify-content-center ion-padding-top">
+      <ion-col>
+        <ion-button type="submit" expand="block" [disabled]="createEventForm.invalid">
+          Next
+        </ion-button>
+      </ion-col>
+    </ion-row>
+  </form>
+</ng-template>
+
+<ng-template #secondCreateEvent>
+  <form [formGroup]="secondEventForm" (ngSubmit)="submitSecondForm()" novalidate>
+    <ion-row>
+      <ion-col>
+        <ion-label class="field-label" position="floating">Participant Count</ion-label>
+        <ion-input placeholder="Enter the maximum participant count for the event" type="number"
+          formControlName="participantCount">
+        </ion-input>
+        <div
+          *ngIf="(secondEventForm.get('participantCount')?.invalid && secondEventForm.get('participantCount')?.touched)">
+          <ion-label class="error-validation" *ngIf="secondEventForm.get('participantCount').errors.required">
+            This field is required!</ion-label>
+        </div>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col>
+        <ion-label class="field-label" position="floating">Participant Age Range</ion-label>
+        <ion-range [(ngModel)]="knobValues" dualKnobs="true" pin="true" min="0" max="120" color="secondary"
+          formControlName="familyAgeRange">
+          <ion-label slot="start">0</ion-label>
+          <ion-label slot="end">120</ion-label>
+        </ion-range>
+        <div *ngIf="(secondEventForm.get('familyAgeRange')?.invalid && secondEventForm.get('familyAgeRange')?.touched)">
+          <ion-label class="error-validation" *ngIf="secondEventForm.get('familyAgeRange').errors.required">
+            This field is required!</ion-label>
+        </div>
+      </ion-col>
+    </ion-row>
+
+    <ion-row class="ion-justify-content-center ion-padding-top">
+      <ion-col>
+        <ion-button type="submit" expand="block" [disabled]="secondEventForm.invalid">
+          Next
+        </ion-button>
+      </ion-col>
+    </ion-row>
+  </form>
+</ng-template>
+
+<ng-template #thirdCreateEvent>
+  <form [formGroup]="thirdEventForm" (ngSubmit)="submitThirdForm()" novalidate>
+    <div *ngFor="let controls of getFormArray('staffArray').controls; let i = index" formArrayName="staffArray">
+      <ion-row [formGroup]="getFormArray('staffArray').at(i)">
+        <ion-col size="5">
+          <ion-label class="field-label" position="floating">Staff Name</ion-label>
+          <ion-input placeholder="Name" type="text" formControlName="staffName">
+          </ion-input>
+          <div
+            *ngIf="(getFormArray('staffArray').at(i).get('staffName')?.invalid && getFormArray('staffArray').at(i).get('staffName')?.touched)">
+            <ion-label class="error-validation"
+              *ngIf="getFormArray('staffArray').at(i).get('staffName').errors.required">
+              This field is required!</ion-label>
+          </div>
+        </ion-col>
+        <ion-col size="5">
+          <ion-label class="field-label" position="floating">Mobile Number</ion-label>
+          <ion-input placeholder="Mobile Number" type="text" formControlName="staffMobile">
+          </ion-input>
+          <div
+            *ngIf="(getFormArray('staffArray').at(i).get('staffMobile')?.invalid && getFormArray('staffArray').at(i).get('staffMobile')?.touched)">
+            <ion-label class="error-validation"
+              *ngIf="getFormArray('staffArray').at(i).get('staffMobile').errors.required">
+              This field is required!</ion-label>
+          </div>
+        </ion-col>
+        <ion-col size="2">
+          <ion-button (click)="addControl()">
+            <ion-icon slot="icon-only" name="add-circle-outline"></ion-icon>
+          </ion-button>
+          <ion-button (click)="removeControl(i)">
+            <ion-icon slot="icon-only" name="trash-outline"></ion-icon>
+          </ion-button>
+        </ion-col>
+      </ion-row>
+    </div>
+
+    <ion-row class="ion-justify-content-center ion-padding-top">
+      <ion-col>
+        <ion-button type="submit" expand="block" [disabled]="thirdEventForm.invalid">
+          Add Event
+        </ion-button>
+      </ion-col>
+    </ion-row>
+  </form>
+</ng-template>

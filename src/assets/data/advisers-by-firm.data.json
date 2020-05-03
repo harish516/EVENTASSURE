@@ -1,0 +1,1094 @@
+{
+   "list": [
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "1825",
+         "agencyLevel3": "London",
+         "agencyLevel4": "Islington",
+         "totalValue": 108651.5,
+         "totalClients": 437,
+         "advisorList": [
+            {
+               "agentName": "Amanda Johnson",
+               "totalValue": 28026,
+               "totalClients": 105
+            },
+            {
+               "agentName": "Katriona Murray",
+               "totalValue": 27270,
+               "totalClients": 115
+            },
+            {
+               "agentName": "Derek Winsland",
+               "totalValue": 28662,
+               "totalClients": 118
+            },
+            {
+               "agentName": "Helen Robins",
+               "totalValue": 24693.5,
+               "totalClients": 99
+            }
+         ]
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "1825",
+         "agencyLevel3": "Midlands",
+         "agencyLevel4": "Milton Keynes",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Chase De Vere",
+         "agencyLevel3": "London",
+         "agencyLevel4": "City of London",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Chase De Vere",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Leeds",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Chase De Vere",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Manchester",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Chase De Vere",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Newcastle",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Chase De Vere",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Trafford",
+         "totalValue": 288733,
+         "totalClients": 1164,
+         "advisorList": [
+            {
+               "agentName": "Andrea Glover",
+               "totalValue": 29177.5,
+               "totalClients": 123
+            },
+            {
+               "agentName": "Graham Keysell",
+               "totalValue": 27071,
+               "totalClients": 115
+            },
+            {
+               "agentName": "Wise Expat",
+               "totalValue": 29184.5,
+               "totalClients": 118
+            },
+            {
+               "agentName": "Rob Hesketh",
+               "totalValue": 30160.5,
+               "totalClients": 124
+            },
+            {
+               "agentName": "Patrick Connolly",
+               "totalValue": 28766.5,
+               "totalClients": 119
+            },
+            {
+               "agentName": "Daphne Foulkes",
+               "totalValue": 28340,
+               "totalClients": 114
+            },
+            {
+               "agentName": "Michael Doyle",
+               "totalValue": 29954.5,
+               "totalClients": 117
+            },
+            {
+               "agentName": "David O'Donoghue FPFS",
+               "totalValue": 29482,
+               "totalClients": 107
+            },
+            {
+               "agentName": "Jonathan C. Cooper",
+               "totalValue": 26937.5,
+               "totalClients": 114
+            },
+            {
+               "agentName": "Peter Brooke",
+               "totalValue": 29659,
+               "totalClients": 113
+            }
+         ]
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Chase De Vere",
+         "agencyLevel3": "Scotland",
+         "agencyLevel4": "Dundee",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Chase De Vere",
+         "agencyLevel3": "Scotland",
+         "agencyLevel4": "Edinburgh",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Chase De Vere",
+         "agencyLevel3": "Scotland",
+         "agencyLevel4": "Glasgow",
+         "totalValue": 120895,
+         "totalClients": 469,
+         "advisorList": [
+            {
+               "agentName": "Tim Yates",
+               "totalValue": 30672,
+               "totalClients": 125
+            },
+            {
+               "agentName": "Sean Webb",
+               "totalValue": 28748.5,
+               "totalClients": 118
+            },
+            {
+               "agentName": "Lorraine Chekir Dipfa",
+               "totalValue": 30801,
+               "totalClients": 113
+            },
+            {
+               "agentName": "Stuart Faires",
+               "totalValue": 30673.5,
+               "totalClients": 113
+            }
+         ]
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Chase De Vere",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "Bath and North East Somerset",
+         "totalValue": 194231,
+         "totalClients": 790,
+         "advisorList": [
+            {
+               "agentName": "Allan Harragan",
+               "totalValue": 27940,
+               "totalClients": 103
+            },
+            {
+               "agentName": "Victoria Lewis",
+               "totalValue": 29022,
+               "totalClients": 114
+            },
+            {
+               "agentName": "Anthony Farrell",
+               "totalValue": 25956,
+               "totalClients": 107
+            },
+            {
+               "agentName": "Michael Lorimer",
+               "totalValue": 26024,
+               "totalClients": 111
+            },
+            {
+               "agentName": "Shanaka Cristofoli",
+               "totalValue": 28382,
+               "totalClients": 111
+            },
+            {
+               "agentName": "Cara Dougherty",
+               "totalValue": 27558.5,
+               "totalClients": 116
+            },
+            {
+               "agentName": "Brian Furzer",
+               "totalValue": 29348.5,
+               "totalClients": 128
+            }
+         ]
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Chase De Vere",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "Bristol",
+         "totalValue": 86077,
+         "totalClients": 355,
+         "advisorList": [
+            {
+               "agentName": "Saurabh Shukla",
+               "totalValue": 29226.5,
+               "totalClients": 119
+            },
+            {
+               "agentName": "David Lauder",
+               "totalValue": 29258,
+               "totalClients": 122
+            },
+            {
+               "agentName": "Andy Crowe",
+               "totalValue": 27592.5,
+               "totalClients": 114
+            }
+         ]
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Chase De Vere",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "Cambridge",
+         "totalValue": 86187.5,
+         "totalClients": 351,
+         "advisorList": [
+            {
+               "agentName": "Luke Morley",
+               "totalValue": 29100,
+               "totalClients": 115
+            },
+            {
+               "agentName": "Raj Unadkat",
+               "totalValue": 29858,
+               "totalClients": 117
+            },
+            {
+               "agentName": "Daniel Atkinson",
+               "totalValue": 27229.5,
+               "totalClients": 119
+            }
+         ]
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Chase De Vere",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "Rother",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Chase De Vere",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "Tewkesbury",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Chase De Vere",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "Wiltshire",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Chase De Vere",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "Woking",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Chase De Vere",
+         "agencyLevel3": "Wales",
+         "agencyLevel4": "Cardiff",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Foster Denovo Ltd",
+         "agencyLevel3": "London",
+         "agencyLevel4": "Camden",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Foster Denovo Ltd",
+         "agencyLevel3": "London",
+         "agencyLevel4": "Kingston upon Thames",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Foster Denovo Ltd",
+         "agencyLevel3": "Midlands",
+         "agencyLevel4": "Solihull",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Foster Denovo Ltd",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Sheffield",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Foster Denovo Ltd",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "Central Bedfordshire",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Gallagher",
+         "agencyLevel3": "Midlands",
+         "agencyLevel4": "Norfolk",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Gallagher",
+         "agencyLevel3": "Midlands",
+         "agencyLevel4": "Stratford-on-Avon",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Gallagher",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Cheshire East",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Gallagher",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "County Durham",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Gallagher",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Leeds",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Gallagher",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Mansfield",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Gallagher",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Preston",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Gallagher",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Trafford",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Gallagher",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Wigan",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Gallagher",
+         "agencyLevel3": "Scotland",
+         "agencyLevel4": "Glasgow",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Gallagher",
+         "agencyLevel3": "Scotland",
+         "agencyLevel4": "West Lothian",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Gallagher",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "Bournemouth",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Gallagher",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "Hampshire",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Gallagher",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "Luton",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Gallagher",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "South Gloucestershire",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Gallagher",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "Tonbridge and Malling",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Gallagher",
+         "agencyLevel3": "Wales",
+         "agencyLevel4": "Cardiff",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "London",
+         "agencyLevel4": "City of London",
+         "totalValue": 143647,
+         "totalClients": 574,
+         "advisorList": [
+            {
+               "agentName": "Craig Welsh",
+               "totalValue": 29112,
+               "totalClients": 113
+            },
+            {
+               "agentName": "Bryn Arnold",
+               "totalValue": 26068,
+               "totalClients": 115
+            },
+            {
+               "agentName": "Chris Burke",
+               "totalValue": 26700.5,
+               "totalClients": 105
+            },
+            {
+               "agentName": "Cedric Privat",
+               "totalValue": 32319.5,
+               "totalClients": 117
+            },
+            {
+               "agentName": "David Hattersley",
+               "totalValue": 29447,
+               "totalClients": 124
+            }
+         ]
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "London",
+         "agencyLevel4": "Croydon",
+         "totalValue": 136260,
+         "totalClients": 562,
+         "advisorList": [
+            {
+               "agentName": "John Hayward",
+               "totalValue": 30560,
+               "totalClients": 123
+            },
+            {
+               "agentName": "Barry Davys",
+               "totalValue": 26898.5,
+               "totalClients": 113
+            },
+            {
+               "agentName": "Richard Rose",
+               "totalValue": 24434,
+               "totalClients": 103
+            },
+            {
+               "agentName": "Marie Helene Ciric",
+               "totalValue": 25828,
+               "totalClients": 112
+            },
+            {
+               "agentName": "Pauline Bowden",
+               "totalValue": 28539.5,
+               "totalClients": 111
+            }
+         ]
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "London",
+         "agencyLevel4": "Harrow",
+         "totalValue": 142789,
+         "totalClients": 539,
+         "advisorList": [
+            {
+               "agentName": "Graham Dixon",
+               "totalValue": 29426,
+               "totalClients": 117
+            },
+            {
+               "agentName": "Paul Roberts",
+               "totalValue": 27772.5,
+               "totalClients": 108
+            },
+            {
+               "agentName": "Jonathan Goodman",
+               "totalValue": 28708,
+               "totalClients": 103
+            },
+            {
+               "agentName": "Tom Worthington",
+               "totalValue": 30515,
+               "totalClients": 107
+            },
+            {
+               "agentName": "Chris Webb Acsi",
+               "totalValue": 26367.5,
+               "totalClients": 104
+            }
+         ]
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "London",
+         "agencyLevel4": "Hounslow",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "London",
+         "agencyLevel4": "Kingston upon Thames",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "London",
+         "agencyLevel4": "Sutton",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "London",
+         "agencyLevel4": "Westminster",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Midlands",
+         "agencyLevel4": "Birmingham",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Midlands",
+         "agencyLevel4": "Coventry",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Midlands",
+         "agencyLevel4": "Derby",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Midlands",
+         "agencyLevel4": "East Hertfordshire",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Midlands",
+         "agencyLevel4": "North Kesteven",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Midlands",
+         "agencyLevel4": "Peterborough",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Midlands",
+         "agencyLevel4": "Stratford-on-Avon",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Midlands",
+         "agencyLevel4": "Wolverhampton",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Bolton",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Bromley",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Cheshire West and Chester",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Darlington",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Derby",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "High Peak",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Kingston upon Hull",
+         "totalValue": 26410.5,
+         "totalClients": 111,
+         "advisorList": [
+            {
+               "agentName": "Andy Stowers",
+               "totalValue": 26410.5,
+               "totalClients": 111
+            }
+         ]
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Leeds",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Manchester",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Mansfield",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Sheffield",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Warrington",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Northern Ireland",
+         "agencyLevel4": "Omagh",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Scotland",
+         "agencyLevel4": "West Lothian",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "Bournemouth",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "Bracknell Forest",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "Maidstone",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "Sevenoaks",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "Somerset",
+         "totalValue": 51985.5,
+         "totalClients": 219,
+         "advisorList": [
+            {
+               "agentName": "Charles Hutchinson",
+               "totalValue": 25736,
+               "totalClients": 110
+            },
+            {
+               "agentName": "Trevor Levy",
+               "totalValue": 26249.5,
+               "totalClients": 109
+            }
+         ]
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "South Buckinghamshire",
+         "totalValue": 53088,
+         "totalClients": 218,
+         "advisorList": [
+            {
+               "agentName": "Johnny Howe",
+               "totalValue": 26669.5,
+               "totalClients": 107
+            },
+            {
+               "agentName": "Caroline Payne",
+               "totalValue": 26418.5,
+               "totalClients": 111
+            }
+         ]
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "South Gloucestershire",
+         "totalValue": 59003.5,
+         "totalClients": 226,
+         "advisorList": [
+            {
+               "agentName": "Matthew Platt",
+               "totalValue": 29617,
+               "totalClients": 113
+            },
+            {
+               "agentName": "Chris Eaborn",
+               "totalValue": 29386.5,
+               "totalClients": 113
+            }
+         ]
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "Wiltshire",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Wales",
+         "agencyLevel4": "Cardiff",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "agencyLevel3": "Wales",
+         "agencyLevel4": "Newport",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Positive Solutions (Financial Services) Ltd",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Newcastle",
+         "totalValue": 53688.5,
+         "totalClients": 217,
+         "advisorList": [
+            {
+               "agentName": "Patricia Nadal",
+               "totalValue": 26002,
+               "totalClients": 107
+            },
+            {
+               "agentName": "Christian Severinsen",
+               "totalValue": 27686.5,
+               "totalClients": 110
+            }
+         ]
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "RSM UK",
+         "agencyLevel3": "London",
+         "agencyLevel4": "Kingston upon Thames",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "RSM UK",
+         "agencyLevel3": "London",
+         "agencyLevel4": "Westminster",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "RSM UK",
+         "agencyLevel3": "Midlands",
+         "agencyLevel4": "Leicester",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "RSM UK",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "South Ribble",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "RSM UK",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "Bracknell Forest",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "RSM UK",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "Hampshire",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "RSM UK",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "South Somerset",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "RSM UK",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "Southampton",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "RSM UK",
+         "agencyLevel3": "Southern",
+         "agencyLevel4": "Wycombe",
+         "totalValue": 0,
+         "totalClients": 0,
+         "advisorList": []
+      }
+   ]
+}

@@ -1,0 +1,36 @@
+<ion-header no-border>
+  <ion-toolbar mode="ios">
+    <ion-item lines="none">
+      <i class="material-icons" aria-hidden="true">sort</i>
+      <ion-title>
+        Filter by
+      </ion-title>
+    </ion-item>
+    <ion-buttons slot="end">
+      <ion-button (click)="dismiss()">
+        <ion-icon slot="icon-only" name="close"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <div *ngFor="let filter of filterByList" class="ion-padding-bottom ion-margin-bottom">
+      <ion-list-header>
+        <ion-label class="ion-text-uppercase">{{filter.title}}</ion-label>
+      </ion-list-header>
+      <ion-item *ngFor="let item of filter.options">
+        <ion-label class="label-detail">{{item.description}}</ion-label>
+        <ion-checkbox slot="end" [(ngModel)]="item.isSelected"></ion-checkbox>
+      </ion-item>
+    </div>
+  </ion-list>
+  <ion-row>
+    <ion-col text-right class="ion-padding-end">
+      <ion-button size="small" (click)="applyFilter()">
+        Apply
+      </ion-button>
+    </ion-col>
+  </ion-row>
+</ion-content>

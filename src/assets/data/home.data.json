@@ -1,0 +1,283 @@
+{
+	"list": [{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Aspire Wealth Management",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Claude Dansey",
+			"actualAnnualisedPremium": 316025.88,
+			"targetAnnualisedPremium": 478827.01,
+			"potentialEarningsAmount": 187429.81
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "John Pendlebury",
+			"actualAnnualisedPremium": 467783.27,
+			"targetAnnualisedPremium": 708762.5,
+			"potentialEarningsAmount": 275378.72
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Aspire Wealth Management",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Madeleine Damerment",
+			"actualAnnualisedPremium": 164895.25,
+			"targetAnnualisedPremium": 249841.29,
+			"potentialEarningsAmount": 95742.41
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Susanka & partneri",
+			"agencyLevel4": "London",
+			"agentName": "Pearl Witherington",
+			"actualAnnualisedPremium": 311654.75,
+			"targetAnnualisedPremium": 472204.18,
+			"potentialEarningsAmount": 180112.72
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Zen Wealth LLP",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Stewart Menzies",
+			"actualAnnualisedPremium": 363044.05,
+			"targetAnnualisedPremium": 550066.71,
+			"potentialEarningsAmount": 223608.17
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "The Spectrum IFA Group",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Graham Greene",
+			"actualAnnualisedPremium": 186871.54,
+			"targetAnnualisedPremium": 283138.7,
+			"potentialEarningsAmount": 107758.23
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Henri Dericourt",
+			"actualAnnualisedPremium": 381110.76,
+			"targetAnnualisedPremium": 577440.51,
+			"potentialEarningsAmount": 223786.7
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Zen Wealth LLP",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Eileen Nearne",
+			"actualAnnualisedPremium": 225650.42,
+			"targetAnnualisedPremium": 341894.55,
+			"potentialEarningsAmount": 128732.98
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Square Mile Financial Services",
+			"agencyLevel4": "Cardiff",
+			"agentName": "Violette Szabo",
+			"actualAnnualisedPremium": 95166.39,
+			"targetAnnualisedPremium": 144191.5,
+			"potentialEarningsAmount": 62709.81
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "The Spectrum IFA Group",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Virginia Hall",
+			"actualAnnualisedPremium": 1060081.26,
+			"targetAnnualisedPremium": 1606183.62,
+			"potentialEarningsAmount": 601221.27
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Zen Wealth LLP",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Wilfred Dunderdale",
+			"actualAnnualisedPremium": 884432.4,
+			"targetAnnualisedPremium": 1340049.06,
+			"potentialEarningsAmount": 513045.84
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Paddy O'Sullivan",
+			"actualAnnualisedPremium": 319614.13,
+			"targetAnnualisedPremium": 484263.81,
+			"potentialEarningsAmount": 182681.17
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Paddy Ridsdale",
+			"actualAnnualisedPremium": 263985.26,
+			"targetAnnualisedPremium": 399977.62,
+			"potentialEarningsAmount": 160741.53
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "UK Expatriate Insurance Consultancy Limited",
+			"agencyLevel4": "Buenos Aires",
+			"agentName": "Ron Jeffery",
+			"actualAnnualisedPremium": 166508.27,
+			"targetAnnualisedPremium": 252285.24,
+			"potentialEarningsAmount": 99193.54
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Sidney Reilly",
+			"actualAnnualisedPremium": 201939.95,
+			"targetAnnualisedPremium": 305969.64,
+			"potentialEarningsAmount": 107255.13
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Aspire Wealth Management",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Sverre Bergh",
+			"actualAnnualisedPremium": 330210.52,
+			"targetAnnualisedPremium": 500318.9,
+			"potentialEarningsAmount": 193279.97
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Aspire Wealth Management",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Blanche Charlet",
+			"actualAnnualisedPremium": 372590.16,
+			"targetAnnualisedPremium": 564530.52,
+			"potentialEarningsAmount": 224540.75
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "TP Curran IFA",
+			"agencyLevel4": "Cardiff",
+			"agentName": "Christine Granville",
+			"actualAnnualisedPremium": 109029.21,
+			"targetAnnualisedPremium": 165195.77,
+			"potentialEarningsAmount": 63613.65
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Star Capital Finance/SCF Wealth Management",
+			"agencyLevel4": "Edinburgh",
+			"agentName": "Halina Szyma?ska",
+			"actualAnnualisedPremium": 335285.81,
+			"targetAnnualisedPremium": 508008.73,
+			"potentialEarningsAmount": 195981.45
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Zen Wealth LLP",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Ian Fleming",
+			"actualAnnualisedPremium": 366162.92,
+			"targetAnnualisedPremium": 554792.35,
+			"potentialEarningsAmount": 221429.56
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Jacqueline Nearne",
+			"actualAnnualisedPremium": 248510.17,
+			"targetAnnualisedPremium": 376530.56,
+			"potentialEarningsAmount": 144483.59
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Warwick Road Financial Services",
+			"agencyLevel4": "Buenos Aires",
+			"agentName": "Merlin Minshall",
+			"actualAnnualisedPremium": 538681.53,
+			"targetAnnualisedPremium": 816184.04,
+			"potentialEarningsAmount": 317466.96
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Peter Smithers",
+			"actualAnnualisedPremium": 185079.71,
+			"targetAnnualisedPremium": 280423.76,
+			"potentialEarningsAmount": 102980.24
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Sterling Hayden",
+			"actualAnnualisedPremium": 1229758.68,
+			"targetAnnualisedPremium": 1863270.61,
+			"potentialEarningsAmount": 732730.89
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "United Advisers Group",
+			"agencyLevel4": "Edinburgh",
+			"agentName": "George Blake",
+			"actualAnnualisedPremium": 145910.96,
+			"targetAnnualisedPremium": 221077.26,
+			"potentialEarningsAmount": 88639.88
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Jim Thompson",
+			"actualAnnualisedPremium": 263208.06,
+			"targetAnnualisedPremium": 398800,
+			"potentialEarningsAmount": 158794.97
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Templar European Investment Services",
+			"agencyLevel4": "Belfast",
+			"agentName": "Malcolm Streatfield",
+			"actualAnnualisedPremium": 328312.03,
+			"targetAnnualisedPremium": 497442.38,
+			"potentialEarningsAmount": 194648.51
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Aspire Wealth Management",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Roman Czerniawski",
+			"actualAnnualisedPremium": 157544.31,
+			"targetAnnualisedPremium": 238703.45,
+			"potentialEarningsAmount": 96541.69
+		}
+	]
+}

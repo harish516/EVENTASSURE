@@ -1,0 +1,8 @@
+<ion-list>
+  <ion-radio-group>
+    <ion-item lines="none" *ngFor="let view of viewByOptions" (click)="viewSelected(view)">
+      <ion-label class="label-detail">{{view.description}}</ion-label>
+      <ion-radio slot="end" [value]="view.key"></ion-radio>      
+    </ion-item>
+  </ion-radio-group>
+</ion-list>

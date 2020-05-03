@@ -1,0 +1,12 @@
+<ion-tabs>
+
+  <ion-tab-bar slot="bottom">
+    <ion-tab-button #tabButton *ngFor="let item of sideMenuItems" [hidden]="!item.isTabBarItem"
+      [tab]="item.menuTitle.toLowerCase()" (click)="setActiveTab(item)" (mouseover)="mouseEnterTab(item)"
+      (mouseout)="mouseLeaveTab(item)">
+      <ion-icon [name]="item.menuIcon"></ion-icon>
+      <ion-label>{{item.menuTitle}}</ion-label>
+    </ion-tab-button>
+  </ion-tab-bar>
+
+</ion-tabs>

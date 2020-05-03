@@ -1,0 +1,34 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.ai.risk2us</groupId>
+	<artifactId>risk2us</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+	<modules>
+		<!-- <module>config-server</module>
+		<module>naming-server</module>
+		<module>api-gateway-server</module>
+		
+		<module>risk2us-api-model</module>
+		<module>risk2us-api-services</module>
+		
+		<module>risk2us-repo-model</module>
+		<module>risk2us-repo-services</module> -->
+	</modules>
+
+	<distributionManagement>
+		<repository>
+			<id>ai-releases</id>
+			<url>http://nexus.airas.lan/nexus/content/repositories/ai-releases/</url>
+		</repository>
+		<snapshotRepository>
+			<id>ai-snapshots</id>
+			<url>http://nexus.airas.lan/nexus/content/repositories/ai-snapshots/</url>
+		</snapshotRepository>
+	</distributionManagement>
+
+</project>

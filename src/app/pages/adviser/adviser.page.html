@@ -1,0 +1,133 @@
+<app-header [pageTitle]="pageTitle" [hasBackBtn]="hasBackBtn" [helpContent]="helpContent"></app-header>
+
+<ion-content>
+  <ion-grid>
+    <ion-row class="ion-justify-content-center">
+      <ion-col size-xs="12" size-sm="12" size-md="10" size-lg="6" size-xl="4">
+        <!-- Searchbar in a Toolbar -->
+        <ion-toolbar>
+          <ion-searchbar placeholder="Search advisers" type="text" debounce="500" (ionInput)="onFilterItems($event)">
+          </ion-searchbar>
+        </ion-toolbar>
+
+        <!-- Switch view buttons -->
+        <ion-row>
+          <ion-col size="6">
+            <ion-button expand="block" fill="outline" (click)="openViewByOptions($event)">
+              <i class="material-icons" aria-hidden="true">swap_horiz</i>
+              VIEW BY
+            </ion-button>
+            <div text-center>
+              <ion-chip color="primary">
+                <ion-label>{{viewedBy}}</ion-label>
+              </ion-chip>
+            </div>
+          </ion-col>
+          <ion-col size="6">
+            <ion-button expand="block" fill="outline" (click)="openSortByOptions($event)">
+              <i class="material-icons" aria-hidden="true">sort</i>
+              SORT BY
+            </ion-button>
+            <div text-center>
+              <ion-chip color="primary">
+                <ion-label>{{sortedBy}}</ion-label>
+              </ion-chip>
+            </div>
+          </ion-col>
+        </ion-row>
+
+        <!-- No data message-->
+        <h6 text-center *ngIf="!adviserListByName.list || adviserListByName.list.length === 0" text-wrap
+          [hidden]="viewByFirm">
+          No data to display
+        </h6>
+
+        <!-- View by Adviser -->
+        <div *ngFor="let adviser of adviserListByName.list" [hidden]="viewByFirm">
+          <ion-card no-border>
+            <ion-item-sliding>
+              <ion-item lines="none" (click)="setSelectedAgent(adviser.agentName)">
+                <ion-label>
+                  <h2 text-wrap>{{adviser.agentName}}</h2>
+                  <p class="label-detail" text-wrap>{{adviser.agencyLevel2}} / {{adviser.agencyLevel3}} /
+                    {{adviser.agencyLevel4}}</p>
+                </ion-label>
+                <ion-badge color="light" slot="end" *ngIf="!displayClients">
+                  £{{adviser.totalValue | number: '1.0-0'}}</ion-badge>
+                <ion-badge color="light" slot="end" *ngIf="displayClients">{{adviser.totalClients}}</ion-badge>
+                <ion-icon [name]="selectedAgent === adviser.agentName? 'arrow-dropup' : 'arrow-dropdown'" slot="end"
+                  size="small">
+                </ion-icon>
+              </ion-item>
+              <ion-item-options side="end">
+                <ion-item-option class="sliding-email ion-text-capitalize" (click)="sendEmail(adviser)">
+                  <ion-icon slot="start" size="small" name="mail"></ion-icon>
+                  Email
+                </ion-item-option>
+                <ion-item-option class="sliding-call ion-text-capitalize" (click)="call('07493549930')">
+                  <ion-icon slot="start" size="small" name="call"></ion-icon>
+                  Call
+                </ion-item-option>
+              </ion-item-options>
+            </ion-item-sliding>
+            <ion-card-content class="card-content" *ngIf="selectedAgent === adviser.agentName" no-padding>
+              <ion-row class="ion-margin-horizontal">
+                <ion-col size="12" text-right>
+                  <ion-button strong="true" fill="clear" color="medium"
+                    (click)="commonService.loadingWrap($event, this, presentAdviserModal, adviser)"
+                    [disabled]="noticeOptionDisabled">
+                    <ion-icon slot="end" name="notifications"></ion-icon>
+                    Add a notice?
+                  </ion-button>
+                </ion-col>
+              </ion-row>
+            </ion-card-content>
+          </ion-card>
+        </div>
+
+        <!-- No data message-->
+        <h6 text-center *ngIf="!adviserListByFirm.list || adviserListByFirm.list.length === 0" text-wrap
+          [hidden]="!viewByFirm">
+          No data to display
+        </h6>
+
+        <!-- View by Firm -->
+        <div *ngFor="let firm of adviserListByFirm.list" [hidden]="!viewByFirm">
+          <ion-card no-border>
+            <ion-item lines="none" (click)="setSelectedFirm(firm)">
+              <ion-label>
+                <h2 text-wrap>{{firm.agencyLevel2}}</h2>
+                <p class="label-detail" text-wrap>{{firm.agencyLevel3}} / {{firm.agencyLevel4}}</p>
+              </ion-label>
+              <ion-badge color="light" slot="end" *ngIf="!displayClients">
+                £{{firm.totalValue | number: '1.0-0'}}</ion-badge>
+              <ion-badge color="light" slot="end" *ngIf="displayClients">{{firm.totalClients}}</ion-badge>
+              <ion-icon [name]="selectedFirm === firm.agencyLevel2? 'arrow-dropup' : 'arrow-dropdown'" slot="end"
+                size="small">
+              </ion-icon>
+            </ion-item>
+            <ion-card-content class="card-content" *ngIf="selectedFirm === firm" no-padding>
+              <ion-row *ngFor="let item of firm.advisorList" class="ion-padding-start line-border">
+                <ion-col size="2" text-center class="ion-align-self-center">
+                  <ion-button size="small" fill="clear" color="medium"
+                    (click)="commonService.loadingWrap($event, this, presentFirmModal, firm, item)">
+                    <ion-icon size="small" slot="icon-only" name="notifications"></ion-icon>
+                  </ion-button>
+                </ion-col>
+                <ion-col size="5" class="ion-align-self-center">
+                  <ion-label class="label-detail" text-wrap>{{item.agentName}}</ion-label>
+                </ion-col>
+                <ion-col size="2" text-right class="ion-align-self-center">
+                  <ion-label class="label-detail">{{item.totalClients}}</ion-label>
+                </ion-col>
+                <ion-col size="3" text-right class="ion-align-self-center">
+                  <ion-label class="label-detail">£{{item.totalValue | number: '1.0-0'}}</ion-label>
+                </ion-col>
+              </ion-row>
+            </ion-card-content>
+          </ion-card>
+        </div>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>

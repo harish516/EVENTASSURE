@@ -1,0 +1,11 @@
+<ion-header no-border>
+  <ion-toolbar mode="ios">
+    <ion-buttons slot="start">
+      <ion-menu-button *ngIf="!hasBackBtn"></ion-menu-button>
+      <ion-back-button *ngIf="hasBackBtn" slot="start" defaultHref="home"></ion-back-button>
+    </ion-buttons>
+    <ion-title>
+      {{pageTitle}}
+    </ion-title>
+  </ion-toolbar>
+</ion-header>

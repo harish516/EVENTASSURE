@@ -1,0 +1,132 @@
+// App Styles
+// ----------------------------------------------------------------------------
+// Put style rules here that you want to apply to the entire application. These
+// styles are for the entire app and not just one component. Additionally, this
+// file can hold Sass mixins, functions, and placeholder classes to be imported
+// and used throughout the application.
+
+* {
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
+}
+
+ion-title {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+ion-thumbnail {
+  margin: 5px 10px 5px 5px;
+  --size: 35px;
+}
+
+h2 {
+  font-weight: 700 !important;
+}
+
+.line-border {
+  border-bottom: 1px solid var(--ion-color-content);
+  margin: 0px 15px 0px;
+  padding: 3px 0px 3px;
+}
+
+.label-detail {
+  font-size: 14px !important;
+  font-weight: 400 !important;
+}
+
+.label-detail-strong {
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  color: #000000;
+}
+
+.label-detail-small {
+  font-size: 12px !important;
+  font-weight: 400 !important;
+  color: #000000;
+}
+
+.input-text {
+  font-size: 14px !important;
+  font-weight: 400 !important;
+}
+
+.error-validation {
+  font-size: 12px !important;
+  font-weight: 600 !important;
+  color: #f04141;
+}
+
+.card-content {
+  background-color: #ffffff;
+  border-top: 1px solid var(--ion-color-content);
+}
+
+.sliding-email {
+  background-color: #ddad05;
+}
+
+.sliding-call {
+  background-color: #3ebf6d;
+}
+
+.sliding-quote {
+  background-color: #ee8434;
+}
+
+.header-label-filter {
+  font-size: 11px;
+  margin: 0px;
+}
+
+.header-label-on-off {
+  font-size: 14px;
+  font-weight: 700;
+  margin: 0px;
+}
+
+.more-options-popover .popover-content {
+  width: auto;
+}
+
+app-more-options > ion-list > ion-item:hover {
+  --background: var(--ion-color-primary);
+  color: var(--ion-color-primary-contrast);
+
+  ion-icon {
+    color: var(--ion-color-primary-contrast);
+  }
+}
+
+.help-modal .modal-wrapper {
+  height: 40%;
+  top: 60%;
+  position: absolute;
+  display: block;
+}
+
+.tile-title {
+  font-size: 16px;
+  color: #292929;
+  font-weight: 700;
+}
+
+.flex-container {
+  height: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-small {
+  font-size: 10px;
+}
+
+.error-validation {
+  font-size: 12px !important;
+  font-weight: 600 !important;
+  color: #f04141;
+}

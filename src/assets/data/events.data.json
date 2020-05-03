@@ -1,0 +1,22 @@
+{
+    "list": [
+    {
+      "name": "Insurtech Rising",
+      "date": "06/29/2020",
+      "location": "London",
+      "risk": 89
+    },
+    {
+      "name": "Fintech Expo",
+      "date": "09/18/2020",
+      "location": "San Francisco",
+      "risk": 56
+    },
+    {
+      "name": "Regtech Symposium",
+      "date": "05/27/2021",
+      "location": "Berlin",
+      "risk": 13
+    }
+  ]
+}

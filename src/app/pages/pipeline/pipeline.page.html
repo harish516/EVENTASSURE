@@ -1,0 +1,105 @@
+<app-header [pageTitle]="pageTitle" [hasBackBtn]="hasBackBtn" [helpContent]="helpContent"></app-header>
+
+<ion-content>
+  <ion-grid>
+    <ion-row class="ion-justify-content-center">
+      <ion-col size-xs="12" size-sm="10" size-md="8" size-lg="6" size-xl="6">
+        <!-- Filter by and Sort by -->
+        <ion-toolbar>
+          <ion-row>
+            <ion-col size="6">
+              <ion-button expand="block" fill="outline"
+                (click)="commonService.loadingWrap($event, this, openFilterByOptions)">
+                <ion-icon name="funnel-outline"></ion-icon>
+                FILTER BY
+              </ion-button>
+              <div text-center>
+                <ion-chip color="primary" *ngFor="let filter of filteredBy">
+                  <ion-label>{{filter}}</ion-label>
+                </ion-chip>
+              </div>
+            </ion-col>
+            <ion-col size="6">
+              <ion-button expand="block" fill="outline" (click)="openSortByOptions($event)">
+                <ion-icon name="filter-outline"></ion-icon>
+                SORT BY
+              </ion-button>
+              <div text-center>
+                <ion-chip color="primary">
+                  <ion-label>{{sortedBy}}</ion-label>
+                </ion-chip>
+              </div>
+            </ion-col>
+          </ion-row>
+        </ion-toolbar>
+
+        <!-- No data message-->
+        <h6 text-center *ngIf="!pipeModel.list || pipeModel.list.length <= 0" text-wrap>
+          No data to display
+        </h6>
+
+        <!-- Virtual Scroll start -->
+        <ion-virtual-scroll #pipelineVirtualScroll [items]="pipeModel.list">
+          <div *virtualItem="let pipeline">
+            <ion-card>
+              <ion-item-sliding>
+                <ion-item lines="none" (click)="onItemTapped(pipeline)">
+                  <ion-label>
+                    <ion-text [color]="'danger'">
+                      <h2>{{pipeline.policyNo}}</h2>
+                    </ion-text>
+                    <p class="label-detail" text-wrap>
+                      {{pipeline.policyStatus}}
+                    </p>
+                    <p class="label-detail" text-wrap>{{pipeline.policyOwner}}</p>
+                  </ion-label>
+                  <ion-badge color="light" slot="end">
+                    {{pipeline.riskFactor}} %
+                  </ion-badge>
+                  <ion-icon [name]="selectedPolicy === pipeline.policyNo? 'chevron-up-outline' : 'chevron-down-outline'" slot="end"
+                    size="small"></ion-icon>
+                </ion-item>
+                <ion-item-options side="end">
+                  <ion-item-option class="sliding-email ion-text-capitalize" (click)="sendEmail(pipeline)">
+                    <ion-icon slot="start" size="small" name="mail"></ion-icon>
+                    Email
+                  </ion-item-option>
+                  <ion-item-option class="sliding-call ion-text-capitalize" (click)="call('07493549930')">
+                    <ion-icon slot="start" size="small" name="call"></ion-icon>
+                    Call
+                  </ion-item-option>
+                  <ion-item-option class="sliding-quote ion-text-capitalize" (click)="openQuote()">
+                    <ion-icon slot="start" size="small" name="clipboard"></ion-icon>
+                    Cancel
+                  </ion-item-option>
+                </ion-item-options>
+              </ion-item-sliding>
+              <ion-card-content class="card-content" *ngIf="selectedPolicy === pipeline.policyNo && pipeline.questions && pipeline.questions.length > 0" no-padding>
+                <ion-row class="ion-margin-horizontal" *ngFor="let question of pipeline.questions">
+                  <ion-col size="10">
+                    <ion-label class="label-detail">{{question.q}}</ion-label>
+                  </ion-col>
+                  <ion-col size="2">
+                    <ion-label class="label-detail">{{question.a}}
+                    </ion-label>
+                  </ion-col>
+                </ion-row>
+                <ion-row class="ion-margin-horizontal">
+                  <ion-col size="12" text-right>
+                    <ion-button strong="true" fill="clear" color="medium"
+                      (click)="commonService.loadingWrap($event, this, presentModal, pipeline)"
+                      [disabled]="noticeBtnDisabled">
+                      <ion-icon slot="end" name="notifications"></ion-icon>
+                      Add a notice?
+                    </ion-button>
+                  </ion-col>
+                </ion-row>
+              </ion-card-content>
+            </ion-card>
+          </div>
+        </ion-virtual-scroll>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+
+</ion-content>

@@ -1,0 +1,731 @@
+{
+	"list": [{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Aspire Wealth Management",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Blanche Charlet",
+			"items": [{
+				"label": "Cancellation",
+				"value": 2
+			}, {
+				"label": "Death Claim",
+				"value": 0
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 68
+			}, {
+				"label": "Fund Switch",
+				"value": 14
+			}, {
+				"label": "Maturity",
+				"value": 53
+			}, {
+				"label": "Full Withdrawal",
+				"value": 12
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Aspire Wealth Management",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Claude Dansey",
+			"items": [{
+				"label": "Cancellation",
+				"value": 1
+			}, {
+				"label": "Death Claim",
+				"value": 0
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 50
+			}, {
+				"label": "Fund Switch",
+				"value": 13
+			}, {
+				"label": "Maturity",
+				"value": 48
+			}, {
+				"label": "Full Withdrawal",
+				"value": 11
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Aspire Wealth Management",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Madeleine Damerment",
+			"items": [{
+				"label": "Cancellation",
+				"value": 1
+			}, {
+				"label": "Death Claim",
+				"value": 0
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 26
+			}, {
+				"label": "Fund Switch",
+				"value": 6
+			}, {
+				"label": "Maturity",
+				"value": 28
+			}, {
+				"label": "Full Withdrawal",
+				"value": 6
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Aspire Wealth Management",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Roman Czerniawski",
+			"items": [{
+				"label": "Cancellation",
+				"value": 1
+			}, {
+				"label": "Death Claim",
+				"value": 0
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 20
+			}, {
+				"label": "Fund Switch",
+				"value": 9
+			}, {
+				"label": "Maturity",
+				"value": 25
+			}, {
+				"label": "Full Withdrawal",
+				"value": 3
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Aspire Wealth Management",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Sverre Bergh",
+			"items": [{
+				"label": "Cancellation",
+				"value": 2
+			}, {
+				"label": "Death Claim",
+				"value": 1
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 53
+			}, {
+				"label": "Fund Switch",
+				"value": 17
+			}, {
+				"label": "Maturity",
+				"value": 51
+			}, {
+				"label": "Full Withdrawal",
+				"value": 10
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "The Spectrum IFA Group",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Graham Greene",
+			"items": [{
+				"label": "Cancellation",
+				"value": 1
+			}, {
+				"label": "Death Claim",
+				"value": 1
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 22
+			}, {
+				"label": "Fund Switch",
+				"value": 10
+			}, {
+				"label": "Maturity",
+				"value": 33
+			}, {
+				"label": "Full Withdrawal",
+				"value": 7
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "The Spectrum IFA Group",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Virginia Hall",
+			"items": [{
+				"label": "Cancellation",
+				"value": 5
+			}, {
+				"label": "Death Claim",
+				"value": 3
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 174
+			}, {
+				"label": "Fund Switch",
+				"value": 50
+			}, {
+				"label": "Maturity",
+				"value": 160
+			}, {
+				"label": "Full Withdrawal",
+				"value": 31
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "UK Expatriate Insurance Consultancy Limited",
+			"agencyLevel4": "Buenos Aires",
+			"agentName": "Ron Jeffery",
+			"items": [{
+				"label": "Cancellation",
+				"value": 1
+			}, {
+				"label": "Death Claim",
+				"value": 0
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 19
+			}, {
+				"label": "Fund Switch",
+				"value": 7
+			}, {
+				"label": "Maturity",
+				"value": 26
+			}, {
+				"label": "Full Withdrawal",
+				"value": 6
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Warwick Road Financial Services",
+			"agencyLevel4": "Buenos Aires",
+			"agentName": "Merlin Minshall",
+			"items": [{
+				"label": "Cancellation",
+				"value": 2
+			}, {
+				"label": "Death Claim",
+				"value": 1
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 90
+			}, {
+				"label": "Fund Switch",
+				"value": 22
+			}, {
+				"label": "Maturity",
+				"value": 79
+			}, {
+				"label": "Full Withdrawal",
+				"value": 16
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Zen Wealth LLP",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Eileen Nearne",
+			"items": [{
+				"label": "Cancellation",
+				"value": 1
+			}, {
+				"label": "Death Claim",
+				"value": 1
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 35
+			}, {
+				"label": "Fund Switch",
+				"value": 11
+			}, {
+				"label": "Maturity",
+				"value": 32
+			}, {
+				"label": "Full Withdrawal",
+				"value": 7
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Zen Wealth LLP",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Ian Fleming",
+			"items": [{
+				"label": "Cancellation",
+				"value": 2
+			}, {
+				"label": "Death Claim",
+				"value": 1
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 60
+			}, {
+				"label": "Fund Switch",
+				"value": 15
+			}, {
+				"label": "Maturity",
+				"value": 57
+			}, {
+				"label": "Full Withdrawal",
+				"value": 11
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Zen Wealth LLP",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Stewart Menzies",
+			"items": [{
+				"label": "Cancellation",
+				"value": 1
+			}, {
+				"label": "Death Claim",
+				"value": 0
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 60
+			}, {
+				"label": "Fund Switch",
+				"value": 16
+			}, {
+				"label": "Maturity",
+				"value": 54
+			}, {
+				"label": "Full Withdrawal",
+				"value": 11
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Zen Wealth LLP",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Wilfred Dunderdale",
+			"items": [{
+				"label": "Cancellation",
+				"value": 4
+			}, {
+				"label": "Death Claim",
+				"value": 1
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 147
+			}, {
+				"label": "Fund Switch",
+				"value": 40
+			}, {
+				"label": "Maturity",
+				"value": 132
+			}, {
+				"label": "Full Withdrawal",
+				"value": 27
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Henri Dericourt",
+			"items": [{
+				"label": "Cancellation",
+				"value": 2
+			}, {
+				"label": "Death Claim",
+				"value": 1
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 56
+			}, {
+				"label": "Fund Switch",
+				"value": 22
+			}, {
+				"label": "Maturity",
+				"value": 59
+			}, {
+				"label": "Full Withdrawal",
+				"value": 12
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Jacqueline Nearne",
+			"items": [{
+				"label": "Cancellation",
+				"value": 1
+			}, {
+				"label": "Death Claim",
+				"value": 0
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 38
+			}, {
+				"label": "Fund Switch",
+				"value": 12
+			}, {
+				"label": "Maturity",
+				"value": 38
+			}, {
+				"label": "Full Withdrawal",
+				"value": 7
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Jim Thompson",
+			"items": [{
+				"label": "Cancellation",
+				"value": 1
+			}, {
+				"label": "Death Claim",
+				"value": 1
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 45
+			}, {
+				"label": "Fund Switch",
+				"value": 12
+			}, {
+				"label": "Maturity",
+				"value": 39
+			}, {
+				"label": "Full Withdrawal",
+				"value": 8
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "John Pendlebury",
+			"items": [{
+				"label": "Cancellation",
+				"value": 2
+			}, {
+				"label": "Death Claim",
+				"value": 1
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 74
+			}, {
+				"label": "Fund Switch",
+				"value": 25
+			}, {
+				"label": "Maturity",
+				"value": 73
+			}, {
+				"label": "Full Withdrawal",
+				"value": 14
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Paddy O'Sullivan",
+			"items": [{
+				"label": "Cancellation",
+				"value": 2
+			}, {
+				"label": "Death Claim",
+				"value": 1
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 51
+			}, {
+				"label": "Fund Switch",
+				"value": 17
+			}, {
+				"label": "Maturity",
+				"value": 48
+			}, {
+				"label": "Full Withdrawal",
+				"value": 10
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Paddy Ridsdale",
+			"items": [{
+				"label": "Cancellation",
+				"value": 1
+			}, {
+				"label": "Death Claim",
+				"value": 1
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 43
+			}, {
+				"label": "Fund Switch",
+				"value": 14
+			}, {
+				"label": "Maturity",
+				"value": 40
+			}, {
+				"label": "Full Withdrawal",
+				"value": 7
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Peter Smithers",
+			"items": [{
+				"label": "Cancellation",
+				"value": 1
+			}, {
+				"label": "Death Claim",
+				"value": 1
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 33
+			}, {
+				"label": "Fund Switch",
+				"value": 11
+			}, {
+				"label": "Maturity",
+				"value": 33
+			}, {
+				"label": "Full Withdrawal",
+				"value": 7
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Sidney Reilly",
+			"items": [{
+				"label": "Cancellation",
+				"value": 1
+			}, {
+				"label": "Death Claim",
+				"value": 1
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 28
+			}, {
+				"label": "Fund Switch",
+				"value": 10
+			}, {
+				"label": "Maturity",
+				"value": 33
+			}, {
+				"label": "Full Withdrawal",
+				"value": 7
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Sterling Hayden",
+			"items": [{
+				"label": "Cancellation",
+				"value": 5
+			}, {
+				"label": "Death Claim",
+				"value": 3
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 218
+			}, {
+				"label": "Fund Switch",
+				"value": 57
+			}, {
+				"label": "Maturity",
+				"value": 182
+			}, {
+				"label": "Full Withdrawal",
+				"value": 36
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Square Mile Financial Services",
+			"agencyLevel4": "Cardiff",
+			"agentName": "Violette Szabo",
+			"items": [{
+				"label": "Cancellation",
+				"value": 0
+			}, {
+				"label": "Death Claim",
+				"value": 0
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 23
+			}, {
+				"label": "Fund Switch",
+				"value": 5
+			}, {
+				"label": "Maturity",
+				"value": 12
+			}, {
+				"label": "Full Withdrawal",
+				"value": 4
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Star Capital Finance/SCF Wealth Management",
+			"agencyLevel4": "Edinburgh",
+			"agentName": "Halina Szyma?ska",
+			"items": [{
+				"label": "Cancellation",
+				"value": 1
+			}, {
+				"label": "Death Claim",
+				"value": 0
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 62
+			}, {
+				"label": "Fund Switch",
+				"value": 16
+			}, {
+				"label": "Maturity",
+				"value": 54
+			}, {
+				"label": "Full Withdrawal",
+				"value": 11
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Susanka & partneri",
+			"agencyLevel4": "London",
+			"agentName": "Pearl Witherington",
+			"items": [{
+				"label": "Cancellation",
+				"value": 1
+			}, {
+				"label": "Death Claim",
+				"value": 0
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 0
+			}, {
+				"label": "Fund Switch",
+				"value": 13
+			}, {
+				"label": "Maturity",
+				"value": 50
+			}, {
+				"label": "Full Withdrawal",
+				"value": 11
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "TP Curran IFA",
+			"agencyLevel4": "Cardiff",
+			"agentName": "Christine Granville",
+			"items": [{
+				"label": "Cancellation",
+				"value": 0
+			}, {
+				"label": "Death Claim",
+				"value": 1
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 22
+			}, {
+				"label": "Fund Switch",
+				"value": 9
+			}, {
+				"label": "Maturity",
+				"value": 17
+			}, {
+				"label": "Full Withdrawal",
+				"value": 2
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Templar European Investment Services",
+			"agencyLevel4": "Belfast",
+			"agentName": "Malcolm Streatfield",
+			"items": [{
+				"label": "Cancellation",
+				"value": 1
+			}, {
+				"label": "Death Claim",
+				"value": 1
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 74
+			}, {
+				"label": "Fund Switch",
+				"value": 18
+			}, {
+				"label": "Maturity",
+				"value": 48
+			}, {
+				"label": "Full Withdrawal",
+				"value": 10
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "United Advisers Group",
+			"agencyLevel4": "Edinburgh",
+			"agentName": "George Blake",
+			"items": [{
+				"label": "Cancellation",
+				"value": 1
+			}, {
+				"label": "Death Claim",
+				"value": 0
+			}, {
+				"label": "Partial Withdrawal",
+				"value": 0
+			}, {
+				"label": "Fund Switch",
+				"value": 7
+			}, {
+				"label": "Maturity",
+				"value": 23
+			}, {
+				"label": "Full Withdrawal",
+				"value": 3
+			}]
+		}
+	]
+}

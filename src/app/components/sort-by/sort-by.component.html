@@ -1,0 +1,8 @@
+<ion-list>
+  <ion-radio-group>
+    <ion-item lines="none" *ngFor="let sort of sortByOptions" (click)="sortSelected(sort)">
+      <ion-label class="label-detail">{{sort.description}}</ion-label>
+      <ion-radio slot="end" [value]="sort.key"></ion-radio>      
+    </ion-item>
+  </ion-radio-group>
+</ion-list>

@@ -1,0 +1,238 @@
+{
+   "list": [
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Chase De Vere",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Trafford",
+         "agentName": "Graham Keysell",
+         "policyNo": "IO473787",
+         "policyType": "Good",
+         "policyStatus": "High risk home location",
+         "policyDate": "19/03/2020",
+         "policyOwner": "Joseph Schooling",
+         "policyDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius vestibulum elit, nec tempus odio tristique sed. Sed vel neque sagittis, blandit lectus eu, interdum lacus. Etiam interdum quis mi sed fringilla. Maecenas vel metus non lectus turpis duis.",
+         "policyPeriod": "Full term",
+         "monthlyPremiumValue1": 297,
+         "monthlyBenefitValue1": 9000,
+         "waitingPeriod1": "8 Weeks",
+         "monthlyPremiumValue2": 198,
+         "monthlyBenefitValue2": 6000,
+         "waitingPeriod2": "1 Week",
+         "premiumOption": "Age-costed: reviewable premiums",
+         "currentAge": "33",
+         "finishingAge": "48",
+         "riskFactor": 99,
+         "questions": [
+            {
+               "q": "Are you a key worker?",
+               "a": "No"
+            },
+            {
+               "q": "Which of the following category best describes your job?",
+               "a": "Teacher"
+            },
+            {
+               "q": "Have you used public transport to commute in the last 14 days?",
+               "a": "Yes"
+            },
+            {
+               "q": "Your postcode?",
+               "a": "E15 4LJ"
+            },
+            {
+               "q": "What year were you born?",
+               "a": 1984
+            },
+            {
+               "q": "Your gender",
+               "a": "Male"
+            },
+            {
+               "q": "Do you smoke?",
+               "a": "Yes"
+            },
+            {
+               "q": "In general, do you have any health problems that require you to limit your activities?",
+               "a": "Yes"
+            },
+            {
+               "q": "Do you have heart disease?",
+               "a": "Yes"
+            },
+            {
+               "q": "Do you have lung disease or asthma?",
+               "a": "No"
+            },
+            {
+               "q": "Do you have kidney disease?",
+               "a": "No"
+            },
+            {
+               "q": "Are you living with cancer?",
+               "a": "No"
+            },
+            {
+               "q": "In general, do you have any health problems that require you to stay at home?",
+               "a": "No"
+            }
+         ]
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Chase De Vere",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Trafford",
+         "agentName": "Graham Keysell",
+         "policyNo": "PP587568",
+         "policyType": "Bad",
+         "policyStatus": "High risk age",
+         "policyDate": "06/03/2020",
+         "policyOwner": "Gillian Rahman",
+         "policyDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius vestibulum elit, nec tempus odio tristique sed. Sed vel neque sagittis, blandit lectus eu, interdum lacus. Etiam interdum quis mi sed fringilla. Maecenas vel metus non lectus turpis duis.",
+         "policyPeriod": "5 Year",
+         "monthlyPremiumValue1": 168,
+         "monthlyBenefitValue1": 3500,
+         "waitingPeriod1": "8 Weeks",
+         "monthlyPremiumValue2": 72,
+         "monthlyBenefitValue2": 1500,
+         "waitingPeriod2": "4 Weeks",
+         "premiumOption": "Level guaranteed premiums",
+         "currentAge": "48",
+         "finishingAge": "62",
+         "riskFactor": 92,
+         "questions": [
+            {
+               "q": "Are you a key worker?",
+               "a": "Yes"
+            },
+            {
+               "q": "Which of the following category best describes your job?",
+               "a": "Not working"
+            },
+            {
+               "q": "Have you used public transport to commute in the last 14 days?",
+               "a": "Yes"
+            },
+            {
+               "q": "Your postcode?",
+               "a": "TA11 6RL"
+            },
+            {
+               "q": "What year were you born?",
+               "a": 1939
+            },
+            {
+               "q": "Your gender",
+               "a": "Female"
+            },
+            {
+               "q": "Do you smoke?",
+               "a": "No"
+            },
+            {
+               "q": "In general, do you have any health problems that require you to limit your activities?",
+               "a": "Yes"
+            },
+            {
+               "q": "Do you have heart disease?",
+               "a": "No"
+            },
+            {
+               "q": "Do you have lung disease or asthma?",
+               "a": "No"
+            },
+            {
+               "q": "Do you have kidney disease?",
+               "a": "No"
+            },
+            {
+               "q": "Are you living with cancer?",
+               "a": "No"
+            },
+            {
+               "q": "In general, do you have any health problems that require you to stay at home?",
+               "a": "No"
+            }
+         ]
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Chase De Vere",
+         "agencyLevel3": "Northern",
+         "agencyLevel4": "Trafford",
+         "agentName": "Graham Keysell",
+         "policyNo": "IO473745",
+         "policyType": "Good",
+         "policyStatus": "High risk health",
+         "policyDate": "08/03/2020",
+         "policyOwner": "Philip O'Neill",
+         "policyDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius vestibulum elit, nec tempus odio tristique sed. Sed vel neque sagittis, blandit lectus eu, interdum lacus. Etiam interdum quis mi sed fringilla. Maecenas vel metus non lectus turpis duis.",
+         "policyPeriod": "Full term",
+         "monthlyPremiumValue1": 211.5,
+         "monthlyBenefitValue1": 4500,
+         "waitingPeriod1": "26 Weeks",
+         "monthlyPremiumValue2": 117.5,
+         "monthlyBenefitValue2": 2500,
+         "waitingPeriod2": "26 Weeks",
+         "premiumOption": "Age-costed: guaranteed premiums",
+         "currentAge": "47",
+         "finishingAge": "57",
+         "riskFactor": 80,
+         "questions": [
+            {
+               "q": "Are you a key worker?",
+               "a": "Yes"
+            },
+            {
+               "q": "Which of the following category best describes your job?",
+               "a": "Medical professional"
+            },
+            {
+               "q": "Have you used public transport to commute in the last 14 days?",
+               "a": "No"
+            },
+            {
+               "q": "Your postcode?",
+               "a": "BA44 2UX"
+            },
+            {
+               "q": "What year were you born?",
+               "a": 1971
+            },
+            {
+               "q": "Your gender",
+               "a": "Male"
+            },
+            {
+               "q": "Do you smoke?",
+               "a": "No"
+            },
+            {
+               "q": "In general, do you have any health problems that require you to limit your activities?",
+               "a": "Yes"
+            },
+            {
+               "q": "Do you have heart disease?",
+               "a": "Yes"
+            },
+            {
+               "q": "Do you have lung disease or asthma?",
+               "a": "No"
+            },
+            {
+               "q": "Do you have kidney disease?",
+               "a": "No"
+            },
+            {
+               "q": "Are you living with cancer?",
+               "a": "No"
+            },
+            {
+               "q": "In general, do you have any health problems that require you to stay at home?",
+               "a": "No"
+            }
+         ]
+      }
+   ]
+}

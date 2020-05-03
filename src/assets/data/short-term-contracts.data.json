@@ -1,0 +1,1123 @@
+{
+	"list": [{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Aspire Wealth Management",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Blanche Charlet",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 11,
+				"matured": 4
+			}, {
+				"monthYear": "February 2019",
+				"issued": 9,
+				"matured": 6
+			}, {
+				"monthYear": "March 2019",
+				"issued": 10,
+				"matured": 5
+			}, {
+				"monthYear": "April 2019",
+				"issued": 10,
+				"matured": 5
+			}, {
+				"monthYear": "May 2019",
+				"issued": 14,
+				"matured": 10
+			}, {
+				"monthYear": "June 2019",
+				"issued": 14,
+				"matured": 10
+			}, {
+				"monthYear": "July 2019",
+				"issued": 15,
+				"matured": 5
+			}, {
+				"monthYear": "August 2019",
+				"issued": 16,
+				"matured": 8
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Aspire Wealth Management",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Claude Dansey",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 6,
+				"matured": 6
+			}, {
+				"monthYear": "February 2019",
+				"issued": 8,
+				"matured": 4
+			}, {
+				"monthYear": "March 2019",
+				"issued": 9,
+				"matured": 2
+			}, {
+				"monthYear": "April 2019",
+				"issued": 7,
+				"matured": 2
+			}, {
+				"monthYear": "May 2019",
+				"issued": 14,
+				"matured": 10
+			}, {
+				"monthYear": "June 2019",
+				"issued": 16,
+				"matured": 8
+			}, {
+				"monthYear": "July 2019",
+				"issued": 12,
+				"matured": 8
+			}, {
+				"monthYear": "August 2019",
+				"issued": 16,
+				"matured": 8
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Aspire Wealth Management",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Madeleine Damerment",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 4,
+				"matured": 2
+			}, {
+				"monthYear": "February 2019",
+				"issued": 3,
+				"matured": 3
+			}, {
+				"monthYear": "March 2019",
+				"issued": 5,
+				"matured": 3
+			}, {
+				"monthYear": "April 2019",
+				"issued": 5,
+				"matured": 4
+			}, {
+				"monthYear": "May 2019",
+				"issued": 7,
+				"matured": 6
+			}, {
+				"monthYear": "June 2019",
+				"issued": 8,
+				"matured": 4
+			}, {
+				"monthYear": "July 2019",
+				"issued": 7,
+				"matured": 3
+			}, {
+				"monthYear": "August 2019",
+				"issued": 9,
+				"matured": 3
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Aspire Wealth Management",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Roman Czerniawski",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 4,
+				"matured": 2
+			}, {
+				"monthYear": "February 2019",
+				"issued": 6,
+				"matured": 0
+			}, {
+				"monthYear": "March 2019",
+				"issued": 4,
+				"matured": 4
+			}, {
+				"monthYear": "April 2019",
+				"issued": 7,
+				"matured": 2
+			}, {
+				"monthYear": "May 2019",
+				"issued": 9,
+				"matured": 4
+			}, {
+				"monthYear": "June 2019",
+				"issued": 9,
+				"matured": 3
+			}, {
+				"monthYear": "July 2019",
+				"issued": 5,
+				"matured": 5
+			}, {
+				"monthYear": "August 2019",
+				"issued": 7,
+				"matured": 5
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Aspire Wealth Management",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Sverre Bergh",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 6,
+				"matured": 6
+			}, {
+				"monthYear": "February 2019",
+				"issued": 8,
+				"matured": 4
+			}, {
+				"monthYear": "March 2019",
+				"issued": 8,
+				"matured": 4
+			}, {
+				"monthYear": "April 2019",
+				"issued": 7,
+				"matured": 6
+			}, {
+				"monthYear": "May 2019",
+				"issued": 18,
+				"matured": 9
+			}, {
+				"monthYear": "June 2019",
+				"issued": 17,
+				"matured": 7
+			}, {
+				"monthYear": "July 2019",
+				"issued": 13,
+				"matured": 7
+			}, {
+				"monthYear": "August 2019",
+				"issued": 16,
+				"matured": 8
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "The Spectrum IFA Group",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Graham Greene",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 5,
+				"matured": 4
+			}, {
+				"monthYear": "February 2019",
+				"issued": 5,
+				"matured": 4
+			}, {
+				"monthYear": "March 2019",
+				"issued": 6,
+				"matured": 3
+			}, {
+				"monthYear": "April 2019",
+				"issued": 6,
+				"matured": 3
+			}, {
+				"monthYear": "May 2019",
+				"issued": 12,
+				"matured": 6
+			}, {
+				"monthYear": "June 2019",
+				"issued": 11,
+				"matured": 4
+			}, {
+				"monthYear": "July 2019",
+				"issued": 7,
+				"matured": 3
+			}, {
+				"monthYear": "August 2019",
+				"issued": 7,
+				"matured": 6
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "The Spectrum IFA Group",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Virginia Hall",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 22,
+				"matured": 17
+			}, {
+				"monthYear": "February 2019",
+				"issued": 27,
+				"matured": 12
+			}, {
+				"monthYear": "March 2019",
+				"issued": 27,
+				"matured": 12
+			}, {
+				"monthYear": "April 2019",
+				"issued": 22,
+				"matured": 17
+			}, {
+				"monthYear": "May 2019",
+				"issued": 54,
+				"matured": 25
+			}, {
+				"monthYear": "June 2019",
+				"issued": 50,
+				"matured": 28
+			}, {
+				"monthYear": "July 2019",
+				"issued": 40,
+				"matured": 25
+			}, {
+				"monthYear": "August 2019",
+				"issued": 54,
+				"matured": 24
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "UK Expatriate Insurance Consultancy Limited",
+			"agencyLevel4": "Buenos Aires",
+			"agentName": "Ron Jeffery",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 5,
+				"matured": 3
+			}, {
+				"monthYear": "February 2019",
+				"issued": 5,
+				"matured": 4
+			}, {
+				"monthYear": "March 2019",
+				"issued": 5,
+				"matured": 2
+			}, {
+				"monthYear": "April 2019",
+				"issued": 4,
+				"matured": 2
+			}, {
+				"monthYear": "May 2019",
+				"issued": 7,
+				"matured": 5
+			}, {
+				"monthYear": "June 2019",
+				"issued": 9,
+				"matured": 3
+			}, {
+				"monthYear": "July 2019",
+				"issued": 7,
+				"matured": 3
+			}, {
+				"monthYear": "August 2019",
+				"issued": 8,
+				"matured": 4
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Warwick Road Financial Services",
+			"agencyLevel4": "Buenos Aires",
+			"agentName": "Merlin Minshall",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 14,
+				"matured": 7
+			}, {
+				"monthYear": "February 2019",
+				"issued": 14,
+				"matured": 7
+			}, {
+				"monthYear": "March 2019",
+				"issued": 15,
+				"matured": 6
+			}, {
+				"monthYear": "April 2019",
+				"issued": 14,
+				"matured": 7
+			}, {
+				"monthYear": "May 2019",
+				"issued": 22,
+				"matured": 17
+			}, {
+				"monthYear": "June 2019",
+				"issued": 21,
+				"matured": 15
+			}, {
+				"monthYear": "July 2019",
+				"issued": 20,
+				"matured": 10
+			}, {
+				"monthYear": "August 2019",
+				"issued": 26,
+				"matured": 10
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Zen Wealth LLP",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Eileen Nearne",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 6,
+				"matured": 0
+			}, {
+				"monthYear": "February 2019",
+				"issued": 2,
+				"matured": 4
+			}, {
+				"monthYear": "March 2019",
+				"issued": 5,
+				"matured": 2
+			}, {
+				"monthYear": "April 2019",
+				"issued": 6,
+				"matured": 3
+			}, {
+				"monthYear": "May 2019",
+				"issued": 12,
+				"matured": 6
+			}, {
+				"monthYear": "June 2019",
+				"issued": 11,
+				"matured": 7
+			}, {
+				"monthYear": "July 2019",
+				"issued": 10,
+				"matured": 5
+			}, {
+				"monthYear": "August 2019",
+				"issued": 12,
+				"matured": 5
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Zen Wealth LLP",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Ian Fleming",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 8,
+				"matured": 4
+			}, {
+				"monthYear": "February 2019",
+				"issued": 9,
+				"matured": 3
+			}, {
+				"monthYear": "March 2019",
+				"issued": 8,
+				"matured": 4
+			}, {
+				"monthYear": "April 2019",
+				"issued": 7,
+				"matured": 5
+			}, {
+				"monthYear": "May 2019",
+				"issued": 20,
+				"matured": 8
+			}, {
+				"monthYear": "June 2019",
+				"issued": 18,
+				"matured": 12
+			}, {
+				"monthYear": "July 2019",
+				"issued": 17,
+				"matured": 8
+			}, {
+				"monthYear": "August 2019",
+				"issued": 16,
+				"matured": 13
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Zen Wealth LLP",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Stewart Menzies",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 10,
+				"matured": 5
+			}, {
+				"monthYear": "February 2019",
+				"issued": 11,
+				"matured": 4
+			}, {
+				"monthYear": "March 2019",
+				"issued": 10,
+				"matured": 5
+			}, {
+				"monthYear": "April 2019",
+				"issued": 9,
+				"matured": 5
+			}, {
+				"monthYear": "May 2019",
+				"issued": 18,
+				"matured": 6
+			}, {
+				"monthYear": "June 2019",
+				"issued": 14,
+				"matured": 10
+			}, {
+				"monthYear": "July 2019",
+				"issued": 15,
+				"matured": 8
+			}, {
+				"monthYear": "August 2019",
+				"issued": 19,
+				"matured": 11
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "LATAM",
+			"agencyLevel3": "Zen Wealth LLP",
+			"agencyLevel4": "Brazilia",
+			"agentName": "Wilfred Dunderdale",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 22,
+				"matured": 11
+			}, {
+				"monthYear": "February 2019",
+				"issued": 22,
+				"matured": 11
+			}, {
+				"monthYear": "March 2019",
+				"issued": 20,
+				"matured": 11
+			}, {
+				"monthYear": "April 2019",
+				"issued": 19,
+				"matured": 11
+			}, {
+				"monthYear": "May 2019",
+				"issued": 41,
+				"matured": 21
+			}, {
+				"monthYear": "June 2019",
+				"issued": 41,
+				"matured": 25
+			}, {
+				"monthYear": "July 2019",
+				"issued": 37,
+				"matured": 18
+			}, {
+				"monthYear": "August 2019",
+				"issued": 42,
+				"matured": 24
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Henri Dericourt",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 10,
+				"matured": 5
+			}, {
+				"monthYear": "February 2019",
+				"issued": 10,
+				"matured": 5
+			}, {
+				"monthYear": "March 2019",
+				"issued": 10,
+				"matured": 5
+			}, {
+				"monthYear": "April 2019",
+				"issued": 10,
+				"matured": 5
+			}, {
+				"monthYear": "May 2019",
+				"issued": 17,
+				"matured": 9
+			}, {
+				"monthYear": "June 2019",
+				"issued": 14,
+				"matured": 13
+			}, {
+				"monthYear": "July 2019",
+				"issued": 17,
+				"matured": 8
+			}, {
+				"monthYear": "August 2019",
+				"issued": 21,
+				"matured": 9
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Jacqueline Nearne",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 6,
+				"matured": 5
+			}, {
+				"monthYear": "February 2019",
+				"issued": 5,
+				"matured": 4
+			}, {
+				"monthYear": "March 2019",
+				"issued": 4,
+				"matured": 5
+			}, {
+				"monthYear": "April 2019",
+				"issued": 6,
+				"matured": 3
+			}, {
+				"monthYear": "May 2019",
+				"issued": 11,
+				"matured": 7
+			}, {
+				"monthYear": "June 2019",
+				"issued": 14,
+				"matured": 4
+			}, {
+				"monthYear": "July 2019",
+				"issued": 10,
+				"matured": 5
+			}, {
+				"monthYear": "August 2019",
+				"issued": 14,
+				"matured": 5
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Jim Thompson",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 7,
+				"matured": 3
+			}, {
+				"monthYear": "February 2019",
+				"issued": 8,
+				"matured": 4
+			}, {
+				"monthYear": "March 2019",
+				"issued": 9,
+				"matured": 3
+			}, {
+				"monthYear": "April 2019",
+				"issued": 5,
+				"matured": 4
+			}, {
+				"monthYear": "May 2019",
+				"issued": 9,
+				"matured": 9
+			}, {
+				"monthYear": "June 2019",
+				"issued": 12,
+				"matured": 6
+			}, {
+				"monthYear": "July 2019",
+				"issued": 10,
+				"matured": 5
+			}, {
+				"monthYear": "August 2019",
+				"issued": 13,
+				"matured": 5
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "John Pendlebury",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 12,
+				"matured": 6
+			}, {
+				"monthYear": "February 2019",
+				"issued": 13,
+				"matured": 5
+			}, {
+				"monthYear": "March 2019",
+				"issued": 10,
+				"matured": 6
+			}, {
+				"monthYear": "April 2019",
+				"issued": 13,
+				"matured": 5
+			}, {
+				"monthYear": "May 2019",
+				"issued": 25,
+				"matured": 11
+			}, {
+				"monthYear": "June 2019",
+				"issued": 24,
+				"matured": 12
+			}, {
+				"monthYear": "July 2019",
+				"issued": 17,
+				"matured": 13
+			}, {
+				"monthYear": "August 2019",
+				"issued": 21,
+				"matured": 15
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Paddy O'Sullivan",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 9,
+				"matured": 3
+			}, {
+				"monthYear": "February 2019",
+				"issued": 10,
+				"matured": 2
+			}, {
+				"monthYear": "March 2019",
+				"issued": 5,
+				"matured": 7
+			}, {
+				"monthYear": "April 2019",
+				"issued": 8,
+				"matured": 4
+			}, {
+				"monthYear": "May 2019",
+				"issued": 17,
+				"matured": 7
+			}, {
+				"monthYear": "June 2019",
+				"issued": 14,
+				"matured": 10
+			}, {
+				"monthYear": "July 2019",
+				"issued": 15,
+				"matured": 5
+			}, {
+				"monthYear": "August 2019",
+				"issued": 14,
+				"matured": 10
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Paddy Ridsdale",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 7,
+				"matured": 2
+			}, {
+				"monthYear": "February 2019",
+				"issued": 5,
+				"matured": 4
+			}, {
+				"monthYear": "March 2019",
+				"issued": 6,
+				"matured": 3
+			}, {
+				"monthYear": "April 2019",
+				"issued": 7,
+				"matured": 2
+			}, {
+				"monthYear": "May 2019",
+				"issued": 14,
+				"matured": 9
+			}, {
+				"monthYear": "June 2019",
+				"issued": 17,
+				"matured": 7
+			}, {
+				"monthYear": "July 2019",
+				"issued": 9,
+				"matured": 6
+			}, {
+				"monthYear": "August 2019",
+				"issued": 11,
+				"matured": 7
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Peter Smithers",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 6,
+				"matured": 3
+			}, {
+				"monthYear": "February 2019",
+				"issued": 5,
+				"matured": 4
+			}, {
+				"monthYear": "March 2019",
+				"issued": 4,
+				"matured": 3
+			}, {
+				"monthYear": "April 2019",
+				"issued": 4,
+				"matured": 2
+			}, {
+				"monthYear": "May 2019",
+				"issued": 8,
+				"matured": 4
+			}, {
+				"monthYear": "June 2019",
+				"issued": 8,
+				"matured": 4
+			}, {
+				"monthYear": "July 2019",
+				"issued": 9,
+				"matured": 6
+			}, {
+				"monthYear": "August 2019",
+				"issued": 11,
+				"matured": 7
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Sidney Reilly",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 3,
+				"matured": 3
+			}, {
+				"monthYear": "February 2019",
+				"issued": 4,
+				"matured": 2
+			}, {
+				"monthYear": "March 2019",
+				"issued": 3,
+				"matured": 3
+			}, {
+				"monthYear": "April 2019",
+				"issued": 3,
+				"matured": 3
+			}, {
+				"monthYear": "May 2019",
+				"issued": 10,
+				"matured": 7
+			}, {
+				"monthYear": "June 2019",
+				"issued": 13,
+				"matured": 5
+			}, {
+				"monthYear": "July 2019",
+				"issued": 12,
+				"matured": 3
+			}, {
+				"monthYear": "August 2019",
+				"issued": 11,
+				"matured": 7
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Blackden Financial S.A",
+			"agencyLevel4": "Exeter",
+			"agentName": "Sterling Hayden",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 29,
+				"matured": 16
+			}, {
+				"monthYear": "February 2019",
+				"issued": 28,
+				"matured": 17
+			}, {
+				"monthYear": "March 2019",
+				"issued": 31,
+				"matured": 14
+			}, {
+				"monthYear": "April 2019",
+				"issued": 30,
+				"matured": 15
+			}, {
+				"monthYear": "May 2019",
+				"issued": 56,
+				"matured": 34
+			}, {
+				"monthYear": "June 2019",
+				"issued": 59,
+				"matured": 31
+			}, {
+				"monthYear": "July 2019",
+				"issued": 43,
+				"matured": 29
+			}, {
+				"monthYear": "August 2019",
+				"issued": 58,
+				"matured": 26
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Square Mile Financial Services",
+			"agencyLevel4": "Cardiff",
+			"agentName": "Violette Szabo",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 1,
+				"matured": 2
+			}, {
+				"monthYear": "February 2019",
+				"issued": 2,
+				"matured": 1
+			}, {
+				"monthYear": "March 2019",
+				"issued": 3,
+				"matured": 0
+			}, {
+				"monthYear": "April 2019",
+				"issued": 3,
+				"matured": 0
+			}, {
+				"monthYear": "May 2019",
+				"issued": 3,
+				"matured": 4
+			}, {
+				"monthYear": "June 2019",
+				"issued": 3,
+				"matured": 3
+			}, {
+				"monthYear": "July 2019",
+				"issued": 4,
+				"matured": 2
+			}, {
+				"monthYear": "August 2019",
+				"issued": 8,
+				"matured": 0
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Star Capital Finance/SCF Wealth Management",
+			"agencyLevel4": "Edinburgh",
+			"agentName": "Halina Szyma?ska",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 9,
+				"matured": 3
+			}, {
+				"monthYear": "February 2019",
+				"issued": 7,
+				"matured": 5
+			}, {
+				"monthYear": "March 2019",
+				"issued": 7,
+				"matured": 5
+			}, {
+				"monthYear": "April 2019",
+				"issued": 10,
+				"matured": 2
+			}, {
+				"monthYear": "May 2019",
+				"issued": 16,
+				"matured": 12
+			}, {
+				"monthYear": "June 2019",
+				"issued": 19,
+				"matured": 11
+			}, {
+				"monthYear": "July 2019",
+				"issued": 18,
+				"matured": 7
+			}, {
+				"monthYear": "August 2019",
+				"issued": 18,
+				"matured": 9
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Susanka & partneri",
+			"agencyLevel4": "London",
+			"agentName": "Pearl Witherington",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 8,
+				"matured": 4
+			}, {
+				"monthYear": "February 2019",
+				"issued": 8,
+				"matured": 4
+			}, {
+				"monthYear": "March 2019",
+				"issued": 6,
+				"matured": 7
+			}, {
+				"monthYear": "April 2019",
+				"issued": 7,
+				"matured": 5
+			}, {
+				"monthYear": "May 2019",
+				"issued": 16,
+				"matured": 8
+			}, {
+				"monthYear": "June 2019",
+				"issued": 16,
+				"matured": 8
+			}, {
+				"monthYear": "July 2019",
+				"issued": 15,
+				"matured": 5
+			}, {
+				"monthYear": "August 2019",
+				"issued": 15,
+				"matured": 9
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "TP Curran IFA",
+			"agencyLevel4": "Cardiff",
+			"agentName": "Christine Granville",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 1,
+				"matured": 2
+			}, {
+				"monthYear": "February 2019",
+				"issued": 1,
+				"matured": 2
+			}, {
+				"monthYear": "March 2019",
+				"issued": 3,
+				"matured": 3
+			}, {
+				"monthYear": "April 2019",
+				"issued": 5,
+				"matured": 1
+			}, {
+				"monthYear": "May 2019",
+				"issued": 8,
+				"matured": 4
+			}, {
+				"monthYear": "June 2019",
+				"issued": 7,
+				"matured": 1
+			}, {
+				"monthYear": "July 2019",
+				"issued": 3,
+				"matured": 2
+			}, {
+				"monthYear": "August 2019",
+				"issued": 4,
+				"matured": 2
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "Templar European Investment Services",
+			"agencyLevel4": "Belfast",
+			"agentName": "Malcolm Streatfield",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 6,
+				"matured": 6
+			}, {
+				"monthYear": "February 2019",
+				"issued": 8,
+				"matured": 4
+			}, {
+				"monthYear": "March 2019",
+				"issued": 9,
+				"matured": 4
+			}, {
+				"monthYear": "April 2019",
+				"issued": 8,
+				"matured": 4
+			}, {
+				"monthYear": "May 2019",
+				"issued": 16,
+				"matured": 8
+			}, {
+				"monthYear": "June 2019",
+				"issued": 17,
+				"matured": 7
+			}, {
+				"monthYear": "July 2019",
+				"issued": 13,
+				"matured": 7
+			}, {
+				"monthYear": "August 2019",
+				"issued": 16,
+				"matured": 8
+			}]
+		},
+		{
+			"agencyLevel1": "Ai-Life Limited",
+			"agencyLevel2": "UK",
+			"agencyLevel3": "United Advisers Group",
+			"agencyLevel4": "Edinburgh",
+			"agentName": "George Blake",
+			"items": [{
+				"monthYear": "January 2019",
+				"issued": 5,
+				"matured": 1
+			}, {
+				"monthYear": "February 2019",
+				"issued": 4,
+				"matured": 2
+			}, {
+				"monthYear": "March 2019",
+				"issued": 4,
+				"matured": 2
+			}, {
+				"monthYear": "April 2019",
+				"issued": 1,
+				"matured": 3
+			}, {
+				"monthYear": "May 2019",
+				"issued": 6,
+				"matured": 2
+			}, {
+				"monthYear": "June 2019",
+				"issued": 7,
+				"matured": 5
+			}, {
+				"monthYear": "July 2019",
+				"issued": 8,
+				"matured": 2
+			}, {
+				"monthYear": "August 2019",
+				"issued": 6,
+				"matured": 6
+			}]
+		}
+	]
+}

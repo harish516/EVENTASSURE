@@ -1,0 +1,721 @@
+{
+   "list": [
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "1825",
+         "innerLevel3": [
+            {
+               "agencyLevel3": "London",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Islington",
+                     "agentList": [
+                        {
+                           "agentName": "Amanda Johnson"
+                        },
+                        {
+                           "agentName": "Derek Winsland"
+                        },
+                        {
+                           "agentName": "Helen Robins"
+                        },
+                        {
+                           "agentName": "Katriona Murray"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "agencyLevel3": "Midlands",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Milton Keynes",
+                     "agentList": []
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Chase De Vere",
+         "innerLevel3": [
+            {
+               "agencyLevel3": "London",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "City of London",
+                     "agentList": []
+                  }
+               ]
+            },
+            {
+               "agencyLevel3": "Scotland",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Dundee",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Edinburgh",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Glasgow",
+                     "agentList": [
+                        {
+                           "agentName": "Lorraine Chekir Dipfa"
+                        },
+                        {
+                           "agentName": "Sean Webb"
+                        },
+                        {
+                           "agentName": "Stuart Faires"
+                        },
+                        {
+                           "agentName": "Tim Yates"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "agencyLevel3": "Southern",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Bath and North East Somerset",
+                     "agentList": [
+                        {
+                           "agentName": "Allan Harragan"
+                        },
+                        {
+                           "agentName": "Anthony Farrell"
+                        },
+                        {
+                           "agentName": "Brian Furzer"
+                        },
+                        {
+                           "agentName": "Cara Dougherty"
+                        },
+                        {
+                           "agentName": "Michael Lorimer"
+                        },
+                        {
+                           "agentName": "Shanaka Cristofoli"
+                        },
+                        {
+                           "agentName": "Victoria Lewis"
+                        }
+                     ]
+                  },
+                  {
+                     "agencyLevel4": "Bristol",
+                     "agentList": [
+                        {
+                           "agentName": "Andy Crowe"
+                        },
+                        {
+                           "agentName": "David Lauder"
+                        },
+                        {
+                           "agentName": "Saurabh Shukla"
+                        }
+                     ]
+                  },
+                  {
+                     "agencyLevel4": "Cambridge",
+                     "agentList": [
+                        {
+                           "agentName": "Daniel Atkinson"
+                        },
+                        {
+                           "agentName": "Luke Morley"
+                        },
+                        {
+                           "agentName": "Raj Unadkat"
+                        }
+                     ]
+                  },
+                  {
+                     "agencyLevel4": "Rother",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Tewkesbury",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Wiltshire",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Woking",
+                     "agentList": []
+                  }
+               ]
+            },
+            {
+               "agencyLevel3": "Wales",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Cardiff",
+                     "agentList": []
+                  }
+               ]
+            },
+            {
+               "agencyLevel3": "Northern",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Leeds",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Manchester",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Newcastle",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Trafford",
+                     "agentList": [
+                        {
+                           "agentName": "Andrea Glover"
+                        },
+                        {
+                           "agentName": "Daphne Foulkes"
+                        },
+                        {
+                           "agentName": "David O'Donoghue FPFS"
+                        },
+                        {
+                           "agentName": "Graham Keysell"
+                        },
+                        {
+                           "agentName": "Jonathan C. Cooper"
+                        },
+                        {
+                           "agentName": "Michael Doyle"
+                        },
+                        {
+                           "agentName": "Patrick Connolly"
+                        },
+                        {
+                           "agentName": "Peter Brooke"
+                        },
+                        {
+                           "agentName": "Rob Hesketh"
+                        },
+                        {
+                           "agentName": "Wise Expat"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Foster Denovo Ltd",
+         "innerLevel3": [
+            {
+               "agencyLevel3": "London",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Camden",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Kingston upon Thames",
+                     "agentList": []
+                  }
+               ]
+            },
+            {
+               "agencyLevel3": "Midlands",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Solihull",
+                     "agentList": []
+                  }
+               ]
+            },
+            {
+               "agencyLevel3": "Southern",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Central Bedfordshire",
+                     "agentList": []
+                  }
+               ]
+            },
+            {
+               "agencyLevel3": "Northern",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Sheffield",
+                     "agentList": []
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Gallagher",
+         "innerLevel3": [
+            {
+               "agencyLevel3": "Midlands",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Norfolk",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Stratford-on-Avon",
+                     "agentList": []
+                  }
+               ]
+            },
+            {
+               "agencyLevel3": "Scotland",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Glasgow",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "West Lothian",
+                     "agentList": []
+                  }
+               ]
+            },
+            {
+               "agencyLevel3": "Southern",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Bournemouth",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Hampshire",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Luton",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "South Gloucestershire",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Tonbridge and Malling",
+                     "agentList": []
+                  }
+               ]
+            },
+            {
+               "agencyLevel3": "Wales",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Cardiff",
+                     "agentList": []
+                  }
+               ]
+            },
+            {
+               "agencyLevel3": "Northern",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Cheshire East",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "County Durham",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Leeds",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Mansfield",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Preston",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Trafford",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Wigan",
+                     "agentList": []
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Hoyl",
+         "innerLevel3": [
+            {
+               "agencyLevel3": "London",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "City of London",
+                     "agentList": [
+                        {
+                           "agentName": "Cedric Privat"
+                        },
+                        {
+                           "agentName": "Charles Hutchinson"
+                        },
+                        {
+                           "agentName": "Chris Burke"
+                        },
+                        {
+                           "agentName": "Craig Welsh"
+                        },
+                        {
+                           "agentName": "David Hattersley"
+                        }
+                     ]
+                  },
+                  {
+                     "agencyLevel4": "Croydon",
+                     "agentList": [
+                        {
+                           "agentName": "Barry Davys"
+                        },
+                        {
+                           "agentName": "John Hayward"
+                        },
+                        {
+                           "agentName": "Marie Helene Ciric"
+                        },
+                        {
+                           "agentName": "Pauline Bowden"
+                        },
+                        {
+                           "agentName": "Richard Rose"
+                        }
+                     ]
+                  },
+                  {
+                     "agencyLevel4": "Harrow",
+                     "agentList": [
+                        {
+                           "agentName": "Chris Webb Acsi"
+                        },
+                        {
+                           "agentName": "Graham Dixon"
+                        },
+                        {
+                           "agentName": "Jonathan Goodman"
+                        },
+                        {
+                           "agentName": "Paul Roberts"
+                        },
+                        {
+                           "agentName": "Tom Worthington"
+                        }
+                     ]
+                  },
+                  {
+                     "agencyLevel4": "Hounslow",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Kingston upon Thames",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Sutton",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Westminster",
+                     "agentList": []
+                  }
+               ]
+            },
+            {
+               "agencyLevel3": "Midlands",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Birmingham",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Coventry",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Derby",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "East Hertfordshire",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "North Kesteven",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Peterborough",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Stratford-on-Avon",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Wolverhampton",
+                     "agentList": []
+                  }
+               ]
+            },
+            {
+               "agencyLevel3": "Scotland",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "West Lothian",
+                     "agentList": []
+                  }
+               ]
+            },
+            {
+               "agencyLevel3": "Southern",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Bournemouth",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Bracknell Forest",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Maidstone",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Sevenoaks",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Somerset",
+                     "agentList": [
+                        {
+                           "agentName": "Charles Hutchinson"
+                        },
+                        {
+                           "agentName": "Trevor Levy"
+                        }
+                     ]
+                  },
+                  {
+                     "agencyLevel4": "South Buckinghamshire",
+                     "agentList": [
+                        {
+                           "agentName": "Caroline Payne"
+                        },
+                        {
+                           "agentName": "Johnny Howe"
+                        }
+                     ]
+                  },
+                  {
+                     "agencyLevel4": "South Gloucestershire",
+                     "agentList": [
+                        {
+                           "agentName": "Chris Eaborn"
+                        },
+                        {
+                           "agentName": "Matthew Platt"
+                        }
+                     ]
+                  },
+                  {
+                     "agencyLevel4": "Wiltshire",
+                     "agentList": []
+                  }
+               ]
+            },
+            {
+               "agencyLevel3": "Wales",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Cardiff",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Newport",
+                     "agentList": []
+                  }
+               ]
+            },
+            {
+               "agencyLevel3": "Northern",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Bolton",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Bromley",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Cheshire West and Chester",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Darlington",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Derby",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "High Peak",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Kingston upon Hull",
+                     "agentList": [
+                        {
+                           "agentName": "Andy Stowers"
+                        }
+                     ]
+                  },
+                  {
+                     "agencyLevel4": "Leeds",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Manchester",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Mansfield",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Sheffield",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Warrington",
+                     "agentList": []
+                  }
+               ]
+            },
+            {
+               "agencyLevel3": "Northern Ireland",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Omagh",
+                     "agentList": []
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "Positive Solutions (Financial Services) Ltd",
+         "innerLevel3": [
+            {
+               "agencyLevel3": "Northern",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Newcastle",
+                     "agentList": [
+                        {
+                           "agentName": "Christian Severinsen"
+                        },
+                        {
+                           "agentName": "Patricia Nadal"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "agencyLevel1": "The Exeter",
+         "agencyLevel2": "RSM UK",
+         "innerLevel3": [
+            {
+               "agencyLevel3": "London",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Kingston upon Thames",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Westminster",
+                     "agentList": []
+                  }
+               ]
+            },
+            {
+               "agencyLevel3": "Midlands",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Leicester",
+                     "agentList": []
+                  }
+               ]
+            },
+            {
+               "agencyLevel3": "Southern",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "Bracknell Forest",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Hampshire",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "South Somerset",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Southampton",
+                     "agentList": []
+                  },
+                  {
+                     "agencyLevel4": "Wycombe",
+                     "agentList": []
+                  }
+               ]
+            },
+            {
+               "agencyLevel3": "Northern",
+               "innerLevel4": [
+                  {
+                     "agencyLevel4": "South Ribble",
+                     "agentList": []
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}

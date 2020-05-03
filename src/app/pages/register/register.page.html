@@ -1,0 +1,104 @@
+<ion-content>
+  <ion-grid style="height: 100%">
+    <ion-row class="ion-justify-content-center ion-align-items-center" style="height: 100%">
+      <ion-col size-xs="12" size-sm="10" size-md="8" size-lg="6" size-xl="4">
+        <ion-card>
+          <ion-row class="ion-justify-content-center ion-padding-top">
+            <ion-thumbnail>
+              <ion-img src="../../../assets/icons/ai-logo.png"></ion-img>
+            </ion-thumbnail>
+          </ion-row>
+          <ion-card-content>
+            <ion-row class="ion-justify-content-center">
+              <ion-col>
+                <ion-row>
+                  <ion-col>
+                    <ion-label class="field-label" position="floating">First Name</ion-label>
+                    <ion-input placeholder="Enter your first name" type="text" name="firstName"></ion-input>
+                  </ion-col>
+                </ion-row>
+                <ion-row>
+                  <ion-col>
+                    <ion-label class="field-label" position="floating">Surname</ion-label>
+                    <ion-input placeholder="Enter your surname" type="text" name="surname"></ion-input>
+                  </ion-col>
+                </ion-row>
+                <ion-row>
+                  <ion-col>
+                    <ion-label class="field-label" position="floating">Password</ion-label>
+                    <ion-input placeholder="Enter your password" type="password" name="password"></ion-input>
+                  </ion-col>
+                </ion-row>
+                <ion-row>
+                  <ion-col>
+                    <ion-label class="field-label" position="floating">Age</ion-label>
+                    <ion-input placeholder="Enter your age" type="text" name="age"></ion-input>
+                  </ion-col>
+                </ion-row>
+                <ion-row>
+                  <ion-col>
+                    <ion-label class="field-label" position="floating">Gender</ion-label>
+                    <ion-input placeholder="Enter your gender" type="text" name="gender"></ion-input>
+                  </ion-col>
+                </ion-row>
+                <ion-row class="ion-justify-content-center ion-padding-top">
+                  <ion-col>
+                    <ion-button expand="block" (click)="registerParticipant()">
+                      Register
+                    </ion-button>
+                  </ion-col>
+                </ion-row>
+                <!-- <ion-row>
+                  <ion-col>
+                    <ion-label class="field-label" position="floating">Address</ion-label>
+                    <ion-textarea placeholder="Enter your address" name="address"></ion-textarea>
+                  </ion-col>
+                </ion-row>
+                <ion-row>
+                  <ion-col>
+                    <ion-label class="field-label" position="floating">Age range of family members</ion-label>
+                    <ion-range [(ngModel)]="knobValues" dualKnobs="true" pin="true" min="0" max="120" color="secondary">
+                      <ion-label slot="start">0</ion-label>
+                      <ion-label slot="end">120</ion-label>
+                    </ion-range>
+                  </ion-col>
+                </ion-row>
+                <ion-row>
+                  <ion-col>
+                    <ion-label>Have you or any family member been diagnosed with COVID-19 in the last 45 days?
+                    </ion-label>
+                    <ion-checkbox color="primary"></ion-checkbox>
+                  </ion-col>
+                </ion-row>
+                <ion-row>
+                  <ion-col>
+                    <ion-label>Does your house have facilities to self isolate?
+                    </ion-label>
+                    <ion-checkbox color="primary"></ion-checkbox>
+                  </ion-col>
+                </ion-row>
+                <ion-row>
+                  <ion-col>
+                    <ion-label class="field-label" position="floating">Preferred mode of transport to go to work?
+                    </ion-label>
+                    <ion-input placeholder="Enter your preferred work mode of transport" type="text"
+                      name="workTransport"></ion-input>
+                  </ion-col>
+                </ion-row>
+                <ion-row>
+                  <ion-col>
+                    <ion-label class="field-label" position="floating">Preferred mode of transport for other necessities
+                      like getting groceries?
+                    </ion-label>
+                    <ion-input placeholder="Enter your preferred mode of transport for other necessities" type="text"
+                      name="otherTransport"></ion-input>
+                  </ion-col>
+                </ion-row> -->
+              </ion-col>
+            </ion-row>
+          </ion-card-content>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>

@@ -1,0 +1,8 @@
+{
+  "name": "risk2us",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
